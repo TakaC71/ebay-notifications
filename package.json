@@ -12,5 +12,9 @@
   },
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TakaC71/ebay-notifications.git"
+  }
 }
